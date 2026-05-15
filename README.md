@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋 I'm Mayank Shakya
 
-<!--
-**mayankshakyacbr8577-collab/mayankshakyacbr8577-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student  
 
-Here are some ideas to get you started:
+💻 Learning Java & Spring Boot  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Interested in Open Source & Backend Development  
+
+---
+
+## 🌐 Socials
+- GitHub : https://github.com/mayankshakyacbr8577-collab
+- LinkedIn : https://www.linkedin.com/in/mayank-shakya-17781a383/?skipRedirect=true
+
+---
+
+## 💻 Tech Stack
+Java | MySQL | HTML | CSS | Git | GitHub
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=mayankshakyacbr8577-collab&show_icons=true)
