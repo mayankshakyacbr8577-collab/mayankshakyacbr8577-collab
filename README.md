@@ -1,32 +1,66 @@
- Hi  I'm Mayank Shakya
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Java+Developer;Open+Source+Enthusiast;MCA+Student;Spring+Boot+Learner)](https://git.io/typing-svg)
+
+# Welcome to My GitHub Profile 👨‍💻
+### I'm Mayank Shakya — Learning Java Developement & Open Source Enthusiast
 
 ## 🚀 About Me
 
-🎓 MCA Student  
-💻 Learning Java & Spring Boot  
-🌱 Exploring Open Source & Backend Development  
-🔥 GSSoC 2026 Contributor  
+I'm an MCA student passionate about Java backend development, open source, and building real-world projects.
+
+Currently improving my skills in:
+- Java
+- Spring Boot
+- Git & GitHub
+- Backend Development
+- Open Source Contribution
 
 ---
 
-## 🌐 Socials
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/mayankshakyacbr8577-collab)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mayank-shakya-17781a383/?skipRedirect=true)
-
----
-
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot)
+![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
-## 📊 GitHub Stats
+# 🎯 Current Focus
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayankshakyacbr8577-collab&show_icons=true&theme=tokyonight)
+- Contributing in GSSoC 2026
+- Learning Spring Boot
+- Building Java Backend Projects
+- Developing CareBusy AI 🚀
+- Improving DSA & Problem Solving
+---
+
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=mayankshakyacbr8577-collab&show_icons=true&theme=radical)
+
+---
+
+# 🔥 GitHub Streak Stats
+![](https://github-readme-streak-stats.herokuapp.com/?user=mayankshakyacbr8577-collab&theme=radical)
+
+---
+
+# 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mayankshakyacbr8577-collab&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+# 🌟 Featured Projects
+
+## 🛒 EduConnect  Website
+Java + MySQL based shopping platform project.
+
+---
+
+# 🌐 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/mayankshakyacbr8577-collab)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK)
