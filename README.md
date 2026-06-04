@@ -8,6 +8,7 @@
 I'm an MCA student passionate about Java backend development, open source, and building real-world projects.
 
 Currently improving my skills in:
+- HTML,CSS,JS
 - Java
 - Spring Boot
 - Git & GitHub
