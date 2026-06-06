@@ -69,7 +69,6 @@ Java + MySQL based shopping platform project.
 <p align="center">
 ✨ Thanks for visiting my profile ✨
 </p>
-<br> 
 <h3 align="center">
 ⭐ From <a href="https://github.com/kajalpa302005" target="_blank">Mayank Shkaya </a> ⭐
 </h3>
