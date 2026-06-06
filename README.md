@@ -32,6 +32,7 @@ Currently improving my skills in:
 
 # 🎯 Current Focus
 
+ 🌱 Improve MERN Stack Skills  
 - Contributing in GSSoC 2026
 - Learning Spring Boot
 - Building Java Backend Projects
