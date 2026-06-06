@@ -52,7 +52,7 @@ Currently improving my skills in:
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kajalpa302005&theme=radical&row=1&column=8&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mayankshakyacbr8577-collab=radical&row=1&column=8&margin-w=15&margin-h=15"/>
 </p>
 ---
 
