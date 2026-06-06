@@ -60,6 +60,12 @@ Currently improving my skills in:
 Java + MySQL based shopping platform project.
 
 ---
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kajalpa302005/kajalpa302005/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
+
 
 # 🌐 Connect With Me
 
