@@ -65,3 +65,12 @@ Java + MySQL based shopping platform project.
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/mayankshakyacbr8577-collab)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK)
+
+<p align="center">
+✨ Thanks for visiting my profile ✨
+</p>
+<br> 
+<h3 align="center">
+⭐ From <a href="https://github.com/kajalpa302005" target="_blank">Mayank Shkaya </a> ⭐
+</h3>
+
