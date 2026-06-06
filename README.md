@@ -50,8 +50,10 @@ Currently improving my skills in:
 ---
 
 # 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mayankshakyacbr8577-collab&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=kajalpa302005&theme=radical&row=1&column=8&margin-w=15&margin-h=15"/>
+</p>
 ---
 
 # 🌟 Featured Projects
