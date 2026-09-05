@@ -1,84 +1,83 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Java+Developer;Open+Source+Enthusiast;MCA+Student;Spring+Boot+Learner)](https://git.io/typing-svg)
+<!-- ======================= HEADER ======================= -->
 
-# Welcome to My GitHub Profile 👨‍💻
-### I'm Mayank Shakya — Learning Java Developement & Open Source Enthusiast
+<h1 align="center">👋 Hey, I'm Mayank Shakya</h1>
 
-## 🚀 About Me
-
-I'm an MCA student passionate about Java backend development, open source, and building real-world projects.
-
-Currently improving my skills in:
-- HTML,CSS,JS
-- Java
-- Spring Boot
-- Git & GitHub
-- Backend Development
-- Open Source Contribution
-
----
-
-# 💻 Tech Stack
-
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot)
-![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
-
----
-
-# 🎯 Current Focus
-
- 🌱 Improve MERN Stack Skills  
-- Contributing in GSSoC 2026
-- Learning Spring Boot
-- Building Java Backend Projects
-- Developing CareBusy AI 🚀
-- Improving DSA & Problem Solving
----
-
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=mayankshakyacbr8577-collab&show_icons=true&theme=radical)
-
----
-
-# 🔥 GitHub Streak Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=mayankshakyacbr8577-collab&theme=radical)
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mayankshakyacbr8577-collab=radical&row=1&column=8&margin-w=15&margin-h=15"/>
-</p>
----
-
-# 🌟 Featured Projects
-
-## 🛒 EduConnect  Website
-Java + MySQL based shopping platform project.
-
----
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kajalpa302005/kajalpa302005/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</p>
-
-
-# 🌐 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/mayankshakyacbr8577-collab)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK)
-
-<p align="center">
-✨ Thanks for visiting my profile ✨
-</p>
 <h3 align="center">
-⭐ From <a href="https://github.com/kajalpa302005" target="_blank">Mayank Shkaya </a> ⭐
+  ☕ Java Developer | 💻 Full Stack Developer | 🎓 MCA Student | 🚀 Open Source Enthusiast
 </h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Java+Developer;Spring+Boot+Learner;Full+Stack+Developer;Open+Source+Enthusiast;MCA+Student;Building+Real+World+Projects" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mayankshakyacbr8577-collab&label=Profile%20Views&color=00F7FF&style=flat" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm **Mayank Shakya**, an MCA student passionate about **software development, Java backend development, full-stack web development, and open source**.
+
+I enjoy learning new technologies, solving programming problems, and building **real-world projects** that improve my development skills.
+
+- 🎓 MCA Student
+- ☕ Java Developer
+- 🌱 Currently learning Spring Boot
+- 💻 Full Stack Web Development
+- 🔥 Open Source Contributor
+- 🧠 Improving DSA & Problem Solving
+- 🚀 Building real-world applications
+- 🤝 Interested in collaborative projects
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+### 🌐 Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
+
+### ⚙️ Backend & Database
+
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-green?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+### 🔧 Tools & Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+```text
+☕ Java & Spring Boot
+💻 Full Stack Development
+🧠 DSA & Problem Solving
+🌱 Open Source Contribution
+🚀 Real World Projects
+🤖 AI & Modern Technologies
