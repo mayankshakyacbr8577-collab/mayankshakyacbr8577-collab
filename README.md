@@ -1,14 +1,27 @@
-<!-- ========================================================== -->
-<!--                    MAYANK SHAKYA                           -->
-<!--              PREMIUM GITHUB PROFILE README                 -->
-<!-- ========================================================== -->
+<!-- ========================================================= -->
+<!--                 MAYANK SHAKYA PROFILE                     -->
+<!-- ========================================================= -->
 
 
-<!-- ======================= HERO ============================= -->
+<!-- ======================= ANIMATED HEADER ======================= -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:0066FF,100:7A00FF&height=260&section=header&text=MAYANK%20SHAKYA&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Java%20Developer%20%7C%20Full%20Stack%20Developer%20%7C%20MCA%20Student&descAlignY=60&descSize=18"
+    src="./mayank-animated-header.gif"
+    alt="Mayank Shakya Animated Header"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=23&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=850&lines=☕+Java+Developer;⚡+Spring+Boot+Learner;💻+Full+Stack+Developer;🧠+DSA+%7C+Problem+Solving;🚀+Open+Source+Contributor;🤖+Exploring+AI+%26+Modern+Technology"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=☕+Java+Developer;⚡+Spring+Boot+Learner;💻+Full+Stack+Developer;🧠+DSA+%7C+Problem+Solving;🚀+Open+Source+Contributor;🤖+Exploring+AI+%26+Modern+Technology;🔥+Building+Real-World+Projects"
   />
 </p>
 
@@ -17,100 +30,140 @@
 
 <p align="center">
 
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=850&lines=☕+Java+Developer;⚡+Spring+Boot+Learner;💻+Full+Stack+Developer;🧠+DSA+%7C+Problem+Solving;🚀+Open+Source+Enthusiast;🤖+Exploring+AI+%26+Modern+Tech;🔥+Building+Real-World+Projects"
-  />
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=850&lines=☕+Java+Developer;💻+Full+Stack+Developer;🌱+Spring+Boot+Learner;🧠+DSA+%7C+Problem+Solving;🚀+Open+Source+Contributor;🤖+AI+%26+Modern+Technology+Explorer"
+/>
 
 </p>
 
 
-<!-- ======================= BADGES ============================ -->
+<!-- ======================= SOCIAL LINKS ===================== -->
 
 <p align="center">
 
-  <img
-    src="https://komarev.com/ghpvc/?username=mayankshakyacbr8577-collab&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"
-  />
+<a href="https://github.com/mayankshakyacbr8577-collab">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-  <img
-    src="https://img.shields.io/github/followers/mayankshakyacbr8577-collab?label=FOLLOWERS&style=for-the-badge&logo=github"
-  />
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <img
-    src="https://img.shields.io/github/stars/mayankshakyacbr8577-collab?label=STARS&style=for-the-badge&logo=github"
-  />
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_RESUME_URL">
+<img src="https://img.shields.io/badge/RESUME-00A86B?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+</a>
 
 </p>
 
 
-<!-- ========================================================== -->
-<!--                         INTRO                              -->
-<!-- ========================================================== -->
-
-<h2 align="center">
-  🚀 Welcome to My Digital Space
-</h2>
+<!-- ======================= PROFILE BADGES =================== -->
 
 <p align="center">
-  <b>Code • Create • Learn • Contribute • Repeat</b>
+
+<a href="https://github.com/mayankshakyacbr8577-collab">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github"/>
+</a>
+
+<a href="https://github.com/mayankshakyacbr8577-collab?tab=followers">
+<img src="https://img.shields.io/github/followers/mayankshakyacbr8577-collab?style=flat-square&label=Followers"/>
+</a>
+
+<a href="https://github.com/mayankshakyacbr8577-collab?tab=repositories">
+<img src="https://img.shields.io/github/stars/mayankshakyacbr8577-collab?style=flat-square&label=Stars"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=mayankshakyacbr8577-collab&style=flat-square&label=Profile%20Views"/>
+
 </p>
+
+
+---
+
+# 👋 Hey there! I'm Mayank
 
 <p align="center">
-  <i>
-    "Turning ideas into code and code into real-world solutions."
-  </i>
+  <b>
+    🎓 MCA Student &nbsp; • &nbsp;
+    ☕ Java Developer &nbsp; • &nbsp;
+    💻 Full Stack Developer &nbsp; • &nbsp;
+    🚀 Open Source Enthusiast
+  </b>
 </p>
 
 
-<!-- ========================================================== -->
-<!--                        ABOUT ME                            -->
-<!-- ========================================================== -->
+## 🚀 About Me
 
-# 👨‍💻 ABOUT ME
+I'm **Mayank Shakya**, an MCA student passionate about software development, Java backend development, full-stack web development, DSA and open-source contribution.
 
-I'm **Mayank Shakya**, an MCA student and aspiring software developer passionate about **Java, backend development, full-stack applications, DSA and open-source contribution**.
+I come from a **Mathematics background**, which has helped me develop a strong interest in logic, problem solving and algorithms.
 
-I enjoy transforming ideas into practical applications and continuously improving my development skills by building real-world projects.
+Currently, I'm focusing on strengthening my **Java development**, learning **Spring Boot**, improving my **MERN stack skills**, practicing **DSA**, and building real-world projects.
 
-### ⚡ Quick Snapshot
+I enjoy learning by building things rather than only studying theory.
+
+
+---
+
+# 🧑‍💻 MY DEVELOPER PROFILE
 
 | | |
 |---|---|
 | 🎓 Education | MCA |
-| 📐 Background | B.Sc. Mathematics |
+| 🏫 Institution | KIET Group of Institutions |
+| 📐 Previous Degree | B.Sc. Mathematics |
 | ☕ Primary Language | Java |
-| 🌐 Development | Full Stack |
-| ⚙️ Backend Focus | Spring Boot |
-| 🧠 Problem Solving | DSA |
-| 🚀 Community | Open Source |
-| 🔥 Current Goal | Become a strong Software Developer |
+| 🌱 Backend Learning | Spring Boot |
+| 💻 Frontend | HTML • CSS • JavaScript • React |
+| ⚙️ Backend | Node.js • Express.js |
+| 🗄️ Databases | MongoDB • MySQL |
+| 🧠 Focus | DSA & Problem Solving |
+| 🌍 Community | Open Source |
+| 🚀 Current Goal | Software Development |
+
 
 ---
 
-# 🧠 WHAT DRIVES ME
+# 🛠️ MY FAVORITE TOOLS & TECHNOLOGIES
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,tailwind,spring,nodejs,express,mongodb,mysql,git,github,vscode,postman&perline=5" />
+</p>
+
+<p align="center">
+  <i>Technologies I'm learning, practicing and building with.</i>
+</p>
+
+
+---
+
+# ☕ JAVA DEVELOPMENT
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OOP-Concepts-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Collections-Java-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DSA-Practice-success?style=for-the-badge"/>
+
+</p>
+
+Currently strengthening:
 
 ```text
-                         💡 IDEA
-                           │
-                           ▼
-                      🧠 LEARN
-                           │
-                           ▼
-                      📝 DESIGN
-                           │
-                           ▼
-                      💻 BUILD
-                           │
-                           ▼
-                      🐛 DEBUG
-                           │
-                           ▼
-                       🧪 TEST
-                           │
-                           ▼
-                      🚀 DEPLOY
-                           │
-                           ▼
-                     🔥 IMPROVE
-                           │
-                           └──────────────► REPEAT
+Core Java
+OOP
+Strings
+Arrays
+Collections
+Exception Handling
+Lambda Expressions
+Stream API
+DSA
+Problem Solving
