@@ -45,15 +45,15 @@
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/mayank-shakya-17781a383/">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:mayankshakyacbr8577@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_RESUME_URL">
+<a href="https://drive.google.com/file/d/1Lr2iOHcM1BNqjFctuf0Ff8K-kd2EePs8/view?usp=sharing">
 <img src="https://img.shields.io/badge/RESUME-00A86B?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 
