@@ -3,29 +3,6 @@
 <!-- ========================================================= -->
 
 
-<!-- ======================= ANIMATED HEADER ======================= -->
-
-<p align="center">
-  <img
-    src="./mayank-animated-header.gif"
-    alt="Mayank Shakya Animated Header"
-    width="100%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=23&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=850&lines=☕+Java+Developer;⚡+Spring+Boot+Learner;💻+Full+Stack+Developer;🧠+DSA+%7C+Problem+Solving;🚀+Open+Source+Contributor;🤖+Exploring+AI+%26+Modern+Technology"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=☕+Java+Developer;⚡+Spring+Boot+Learner;💻+Full+Stack+Developer;🧠+DSA+%7C+Problem+Solving;🚀+Open+Source+Contributor;🤖+Exploring+AI+%26+Modern+Technology;🔥+Building+Real-World+Projects"
-  />
-</p>
-
-
 <!-- ======================= TYPING ============================ -->
 
 <p align="center">
@@ -35,7 +12,6 @@
 />
 
 </p>
-
 
 <!-- ======================= SOCIAL LINKS ===================== -->
 
@@ -60,28 +36,17 @@
 </p>
 
 
-<!-- ======================= PROFILE BADGES =================== -->
+<!-- ======================= PROFILE STATS =================== -->
 
 <p align="center">
 
-<a href="https://github.com/mayankshakyacbr8577-collab">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github"/>
-</a>
-
-<a href="https://github.com/mayankshakyacbr8577-collab?tab=followers">
-<img src="https://img.shields.io/github/followers/mayankshakyacbr8577-collab?style=flat-square&label=Followers"/>
-</a>
-
-<a href="https://github.com/mayankshakyacbr8577-collab?tab=repositories">
-<img src="https://img.shields.io/github/stars/mayankshakyacbr8577-collab?style=flat-square&label=Stars"/>
-</a>
-
 <img src="https://komarev.com/ghpvc/?username=mayankshakyacbr8577-collab&style=flat-square&label=Profile%20Views"/>
 
+<img src="https://img.shields.io/github/followers/mayankshakyacbr8577-collab?style=flat-square&label=Followers"/>
+
+<img src="https://img.shields.io/github/stars/mayankshakyacbr8577-collab?style=flat-square&label=Stars"/>
+
 </p>
-
-
----
 
 # 👋 Hey there! I'm Mayank
 
@@ -104,9 +69,45 @@ I come from a **Mathematics background**, which has helped me develop a strong i
 Currently, I'm focusing on strengthening my **Java development**, learning **Spring Boot**, improving my **MERN stack skills**, practicing **DSA**, and building real-world projects.
 
 I enjoy learning by building things rather than only studying theory.
+---
 
+# 🚀 Featured Projects
+
+### 🏢 CampusCore360
+
+A full-stack MERN based ERP system designed for managing academic and administrative workflows.
+
+**Tech:** React • Node.js • Express.js • MongoDB
 
 ---
+
+### 🤖 CareBuddy AI
+
+An AI-powered patient-centric healthcare assistant.
+
+**Tech:** Python • AI • RAG
+
+---
+
+### 📚 EduConnect Student Portal
+
+A student portal frontend with modern UI and Firebase integration.
+
+**Tech:** HTML • CSS • JavaScript • Firebase
+
+🔗 [View Project](https://mayankshakyacbr8577-collab.github.io/EduConnect-Frontend-Firebase-/)
+
+---
+
+### 🤖 IntellMeet AI
+
+An AI-based project focused on intelligent meeting assistance and productivity.
+
+**Tech:** AI • JavaScript • Web Technologies
+
+---
+
+
 
 # 🧑‍💻 MY DEVELOPER PROFILE
 
@@ -139,7 +140,21 @@ I enjoy learning by building things rather than only studying theory.
 
 
 ---
+---
 
+# 📜 Certifications & Learning
+
+- ☕ **Complete Modern Java Bootcamp: DSA, Lambdas & Streams** — Udemy  
+  🔗 [View Certificate](https://www.udemy.com/certificate/UC-59436710-231e-421a-886d-9485837270d7/)
+
+- ☕ **Java Programming Fundamentals** — Infosys Springboard
+- ☕ **Java Programming** — Coding Seekho
+- 💻 **Software Engineering** — Infosys Springboard
+- 🐧 **Linux for Beginners** — Infosys Springboard
+- 🧪 **Testing Basics and Test Management** — Infosys Springboard
+- 🤖 **Prompt Engineering** — Infosys Springboard
+
+---
 # ☕ JAVA DEVELOPMENT
 
 <p align="center">
@@ -165,5 +180,6 @@ Collections
 Exception Handling
 Lambda Expressions
 Stream API
+MERA
 DSA
 Problem Solving
