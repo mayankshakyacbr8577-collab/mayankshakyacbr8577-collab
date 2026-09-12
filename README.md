@@ -2,6 +2,15 @@
 <!--                 MAYANK SHAKYA PROFILE                     -->
 <!-- ========================================================= -->
 
+<!-- ======================= ANIMATED HEADER ======================= -->
+
+<p align="center">
+  <img
+    src="./mayank-animated-header.gif"
+    alt="Mayank Shakya Animated Header"
+    width="100%"
+  />
+</p>
 
 <!-- ======================= TYPING ============================ -->
 
@@ -48,7 +57,7 @@
 
 </p>
 
-# 👋 Hey there! I'm Mayank
+# 👋 Hey there! I'm Mayank Shakya 😎
 
 <p align="center">
   <b>
