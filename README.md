@@ -90,14 +90,6 @@ A full-stack MERN based ERP system designed for managing academic and administra
 
 ---
 
-### 🤖 CareBuddy AI
-
-An AI-powered patient-centric healthcare assistant.
-
-**Tech:** Python • AI • RAG
-
----
-
 ### 📚 EduConnect Student Portal
 
 A student portal frontend with modern UI and Firebase integration.
@@ -107,16 +99,28 @@ A student portal frontend with modern UI and Firebase integration.
 🔗 [View Project](https://mayankshakyacbr8577-collab.github.io/EduConnect-Frontend-Firebase-/)
 
 ---
+### 🧠 FocusNexa
 
-### 🤖 IntellMeet AI
+An AI-powered study and digital productivity platform designed to help students plan, track and improve their study activities.
 
-An AI-based project focused on intelligent meeting assistance and productivity.
+FocusNexa combines a **MERN web application**, **Gemini-powered AI services**, and a **Chrome Manifest V3 extension** for Study Mode, activity tracking and distraction control.
 
-**Tech:** AI • JavaScript • Web Technologies
+**Features:**
+- 📚 Study Sessions with Timer
+- 🎯 Topics, Subtopics & Goals
+- 📊 Dashboard & Productivity Analytics
+- 📈 Weekly Study Comparison
+- 🧮 Focus Score
+- 🤖 AI Productivity Insights
+- 🧠 Smart Study Plan
+- 🌐 Chrome Extension
+- 🎯 Study Mode
+- 👀 Browser Activity Tracking
+- 🚫 Distraction Blocking
+
+**Tech:** React • Node.js • Express.js • MongoDB • Gemini API • Chrome Extension
 
 ---
-
-
 
 # 🧑‍💻 MY DEVELOPER PROFILE
 
