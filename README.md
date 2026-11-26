@@ -159,8 +159,7 @@ FocusNexa combines a **MERN web application**, **Gemini-powered AI services**, a
 
 - ☕ **Complete Modern Java Bootcamp: DSA, Lambdas & Streams** — Udemy  
   🔗 [View Certificate](https://www.udemy.com/certificate/UC-59436710-231e-421a-886d-9485837270d7/)
-  
-  - ⚛️ **Complete React JS Front-End Development (React 19) with AI** — Udemy
+- ⚛️ **Complete React JS Front-End Development (React 19) with AI** — Udemy  
   🔗 [View Certificate](https://www.udemy.com/certificate/UC-5653899a-0d18-4bd9-8c44-7abafe9cb261/)
 
 - ☕ **Java Programming Fundamentals** — Infosys Springboard
